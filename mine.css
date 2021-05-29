@@ -1,0 +1,81 @@
+body{
+	font-family:Verdana;
+	color:white;	
+	background-image:URL("backo.png");
+	
+}
+.name{
+text-decoration:underline;
+}
+
+hr{
+	 width:10%;
+	 
+	 
+	 color:white;
+	 border-style:dotted none none;
+	 border-width:3px;	
+ }
+
+ .insta{
+ 		width:5%;
+		color:;
+		}
+img{
+border:solid  white 2px;
+position:relative;
+border-radius:150px;
+padding:2px;
+top:120px;
+margin-bottom:150px;
+
+}
+
+.nav
+{	
+	border:solid 2px;
+	border-color:white;
+	border-radius:5px;
+    position:absolute;
+	right:200px;
+	text-decoration:none;
+	padding:1px 2px;
+	color:white;	
+}
+.con{
+	position:absolute;
+	right:10px;
+}
+.nav4{
+	 
+	text-align:center;
+	margin-top:20px;
+}
+.nav:hover{
+		background-color:#A9A9A9;
+}
+
+.nav2{
+position:absolute;
+	right:94px;
+		
+}
+.nav3{
+    position:absolute;
+	right:18px;
+	
+		
+}
+#text{
+border-radius:15px;
+
+}
+.post{
+		padding:100px ;
+		position:relative;
+		top:200px;
+		left:300px;
+}
+
+
+
