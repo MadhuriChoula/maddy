@@ -71,11 +71,8 @@ border-radius:15px;
 
 }
 .post{
-		padding:100px ;
-		position:relative;
-		top:200px;
-		left:300px;
+		position:static;
+                text-align:center;
 }
-
 
 
