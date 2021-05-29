@@ -68,11 +68,10 @@ position:absolute;
 }
 #text{
 border-radius:15px;
+position:static;
+ text-align:center;
 
 }
-.post{
-		position:static;
-                text-align:center;
-}
+
 
 
